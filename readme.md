@@ -11,4 +11,6 @@ For this assignment I want you to watch the following two videos and create your
 
 1.  Put the screenshot of your image in your Docker account here
 ![Docker Hub Image](https://github.com/john-pineda/Homework-8-Devops-and-Automation---Docker/blob/main/homewor-8-image.png?raw=true)
+![Github Image](https://github.com/john-pineda/Homework-8-Devops-and-Automation---Docker/blob/main/Screenshot%202024-04-18%20200814.png?raw=true)
+
 
